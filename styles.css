@@ -173,3 +173,30 @@ img.circle-thumb-small {
 	background-size: cover;
 	
 }
+
+/** Task 12 - Styles **/
+.courses {
+	background-image: url(images/pic_3.jpg) !important;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.tcourse {
+	font-size: 32px;
+	font-family: 'Coiny' !important;
+	font-weight: 400;
+}
+
+
+/** Task 13 **/
+
+.search-icon {
+    font-family: 'holberton_school-icon';
+    font-size: 15px;
+}
+
+.searchbar {
+    background-color: #d195ff;
+    border-radius: 3px;
+}
